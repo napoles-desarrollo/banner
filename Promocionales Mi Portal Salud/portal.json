@@ -1,0 +1,14 @@
+{
+  "nota": "Contenido de Mi portal de salud. Se actualiza cada mes desde GitHub. Las imagenes estan en esta misma carpeta.",
+  "promo": { "imagen": "promo-del-mes.jpg", "enlace": "https://labnapoles.mx/promociones" },
+  "banners": [
+    { "imagen": "Nuestros Servicios.png", "enlace": "https://labnapoles.mx/promociones" },
+    { "imagen": "Estamos mas cerca de ti.png", "enlace": "https://labnapoles.mx/encuesta" },
+    { "imagen": "Escribenos por Whatsapp.png", "enlace": "https://wa.me/529931038444" }
+  ],
+  "blog": [
+    { "titulo": "¿Tu glucosa está bien?", "imagen": "blog-1.jpg", "enlace": "https://labnapoles.mx/estudios-glucosa-diabetes-villahermosa" },
+    { "titulo": "Octubre Rosa", "imagen": "blog-2.jpg", "enlace": "https://labnapoles.mx/octubre-rosa-deteccion-oportuna-cancer-de-mama" },
+    { "titulo": "¡Dale un grito de victoria a tu salud!", "imagen": "blog-3.jpg", "enlace": "https://labnapoles.mx/promociones-de-septiembre" }
+  ]
+}
